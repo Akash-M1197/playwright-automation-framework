@@ -1,0 +1,49 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Antiforgery.-dCKQBBQ2m8",
+      "value": "CfDJ8KYO9ymWaRZAt8iP-FMK5Vy8WOSNPGvebiVVUMh7Ic4XWYVTwchla_vlRZn9IcdgZk5GjknX88Dgpgj87ksNyZYspv_jXCLHCrpRWN9Ldj0uQqeC4E8IK9fAuho3clEDVaQP6tBPZVMKM6wzT56ZvLc",
+      "domain": "hrpregression2.ramcodemo.com",
+      "path": "/coresecurityops",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "idsrv.session",
+      "value": "328F3BCBA7416C2CC387B0CE5ED9318E",
+      "domain": "hrpregression2.ramcodemo.com",
+      "path": "/coresecurityops",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "idsrv",
+      "value": "CfDJ8KYO9ymWaRZAt8iP-FMK5VzFRBzB9npu5GzGOc2_jI-qUhWsThho-lZ_2XZsPUEJthPJE1qq2nSz2qDi_XC_VGpez5we_lDfbNboxp9nx-6mUboouLib-0bvH19WyjwHdqAvgM2D7ZRcgFQdj9pbQaRTWN8msS4iIJSThf5cFTdipPTBT_75fFqmJdN9lyS2A94ppIk7o4wJkchk6FUk3KTSRAQFzP2RKj8HeaVN_KfPbpIURSY3jC-2DmaA1W1_EX4c4yP4kc_sMIsAk3DjfCJs4WMHES5yddTAd2P9vFMbuiFErnfMbFXKybttirDQzXWXoCM2op6UjEsUkQ6tjnWXlWqQA8LNv7Ee6CMGxS1_ggkI63GbC2OtwLN-0KS9iCYyjBeHMRbU9zWK9u174dbuuTeRdL8-ej2BTMP7I4FC5pQHa8s3diwq5Tp5Rxiik3RJT8RlkalTufDY2JVnvyyn_7VxlYkk0lFTSxAIj9yoKsJAFIbBwiFCxQ9eUajGsEqVxQ2ogmtz6o-S8VPsq0I6-4b-Js3vlgVtOghF2YkAud2UNMkY-BARdTHJzIUApERELQV0McU0lDO29GbR3v8JzRqY5c2By9c-qzig-PCByPxq856pZ0Nng9wm7DSQhDSw4rRk0uq_QZkF8MLb4WlW4-uA9dq4fgSodr1PZ2CtpywWuZ-GdE-lVbGUa6Ut33d5qzjzelsC8kRXoMJuGyh1Ge0eqSf003LoVcFZtKpVuEYeWLEAX4z0137HXoP4ZQ",
+      "domain": "hrpregression2.ramcodemo.com",
+      "path": "/coresecurityops",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://hrpregression2.ramcodemo.com",
+      "localStorage": [
+        {
+          "name": "signIn",
+          "value": "true"
+        },
+        {
+          "name": "persist:root",
+          "value": "{\"navData\":\"{\\\"navStack\\\":[]}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    }
+  ]
+}

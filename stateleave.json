@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Antiforgery.-dCKQBBQ2m8",
+      "value": "CfDJ8KYO9ymWaRZAt8iP-FMK5Vy2dAjD4Qum_kV-5iAuvAeq0uyGjN_Udyp0nWL78-ChgUNEG5xj8OrNlvabZZZelFwuCMuM-5CxwfSa5p53PIOG3c5UiJwcbySnwf6Y1sFDvl_HqtJItP8MvPKWwjS6Oa8",
+      "domain": "hrpregression2.ramcodemo.com",
+      "path": "/coresecurityops",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "idsrv.session",
+      "value": "B01BA75058E99F87028C46CC43F75174",
+      "domain": "hrpregression2.ramcodemo.com",
+      "path": "/coresecurityops",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "idsrv",
+      "value": "CfDJ8KYO9ymWaRZAt8iP-FMK5VxBqgddfxvUhj6xQKBOUJQjEegQwm7FDVnG-vvwLyw1YxEGpi48-mV2sPeEm3aAohWY5yZqCWNV6pTv31yjt6yQGD4MzS-Q-DKAB5cC2MX3s1XByctFk_QSai65OFvcywhsPFK5SLy5PRbFngPDV_iN1sgwCZZhKdsHkvNagy-bNml_NMo24utAb-prxuucSsNsGMBV6ecvUXW_5Ntr9fTQlVN17ZFihCpwcHziU9qdaFo1CFz1rBgCU_FQlFoKasBJBbGUooGIk-ZbvZDGX3ml7xvPcSqJMYaOWE0ltka_DMuXm4CdNPzSuTcfkhKaSoBJtn3EoXT7Wi8EyZTja4SwoTz1Vo7DOt1mMOQPJSvMcmvojcKw6YuueJN8XAX_7c_YD4_57-La5WeL-wV9Jlfb0bq_hNyyzDCd-RIf3yTMMn1VHNRrUmVMaylURSEg6j12TSgF3BuDzzaSPTFZ1PySl-OUfD1llnrOFIRKJpK2FmCdJMqtikm0YGNOeF5pSGTpLFJFwJ_FieW0qHawvdI5hcmZwYFwtDwWABLtE254ePmSG3Dqixq_Si1DJIIRgSpK-G8IDVFafZy-lnjGPEm2TRV684noWlFMW2Fn0BxpdZXwu4CbADF8UFojIFwZ1SriIH259ZBbAt0LFWJKE5FHTHSiPJkljICaTvrwo6H0ca5QNrWSHRgLfenMAR9E9XH6mtZqSLqMciiw8ftntQd1LVW0S3cg6t1zXZxNU23vvGgjURaUv3w4AWTQavMydwc",
+      "domain": "hrpregression2.ramcodemo.com",
+      "path": "/coresecurityops",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://hrpregression2.ramcodemo.com",
+      "localStorage": [
+        {
+          "name": "persist:root",
+          "value": "{\"navData\":\"{\\\"navStack\\\":[]}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    }
+  ]
+}
