@@ -11,7 +11,7 @@ export default defineConfig({
   reporter : 'html',
   use: {
     browserName : 'chromium',
-    headless : false,
+    headless : true,
     screenshot : 'on',
     trace : 'on',
     ignoreHTTPSErrors: true,
